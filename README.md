@@ -1,5 +1,5 @@
 # Project : 
-Http server from scratch in c
+Minimalist Http server in c
 
 # What does it do : 
 It creates a server which can send response and receive request in this repo HTML.c will send response of html file when it will be executed
