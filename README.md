@@ -9,3 +9,8 @@ It creates a server which can send response and receive request in this repo HTM
 from an article [see](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa)
 
 # Motivation : Just tinkering Around
+---
+```bash
+gcc HTML.c
+./a.out
+```
